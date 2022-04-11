@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_14">14sp</dimen>
+    <dimen name="size_17">17sp</dimen>
+
+    <dimen name="side_bar_font_size">14sp</dimen>
+
+</resources>
